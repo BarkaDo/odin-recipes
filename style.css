@@ -1,0 +1,21 @@
+#header {
+    font-size: 48px;
+    color: red;
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+}
+.links {
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+}
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+
+}
+.main {
+    background: lightgray;
+}
